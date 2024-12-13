@@ -1,0 +1,59 @@
+2024 September 13 Version 1.0.22 ❄️
+* Mobile responsiveness 
+* Design bugs fixed
+
+2024 August 26 Version 1.0.21 ❄️
+* Fixed Minor Issues
+
+2024 August 12 Version 1.0.20❄️
+* Compatibility testing with Wordpress 6.6
+* Header Icons Updated 
+* Copyright Section Added
+
+2024 March 18- Version 1.0.19❄️
+Feature: Breadcrumb,Back to top
+
+2023 December 26- Version 1.0.17 ❄️
+FIXED: Minor Changes related to design
+
+2023 July 05- Version 1.0.16 ❄️
+FIXED: Minor Fixes
+
+2022 September 19- Version 1.0.15 ❄️
+FIXED: Minor Fixes
+
+2022 May 11- Version 1.0.12 ❄️
+FIXED: Minor Fixes
+
+2022 March 25- Version 1.0.11 ❄️
+FIXED: Minor Fixes
+
+2022 February 06- Version 1.0.10 ❄️
+FIXED: Minor Fixes
+
+2021 December 20- Version 1.0.9 ❄️
+FIXED: Minor Fixes
+
+2021 October 20- Version 1.0.8 ❄️
+FIXED: Minor Fixes
+
+2021 September 18- Version 1.0.7 ❄️
+REMOVED: Remove Block Widget Editor
+
+2021 May 30- Version 1.0.4 ❄️
+FIXED: Minor Fixes
+
+2021 May 30- Version 1.0.3 ❄️
+FIXED: Minor Fixes
+
+2021 March 29- Version 1.0.3 ❄️
+FIXED: Minor Fixes
+
+2021 March 02- Version 1.0.2 ❄️
+FIXED: Minor Fixes
+
+2021 March 01- Version 1.0.1 ❄️
+FIXED: Minor Fixes
+
+2021 January 16- Version 1.0.0 ❄️
+Initial release
